@@ -1,8 +1,8 @@
 #Declaring AWS Provider and credentials
 provider "aws" {
   region     = "us-east-2"
-  access_key = "AKIARDDGK2ZKNSO2JLN5"
-  secret_key = "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"
+  access_key = "AKIARDDGK2ZKJZ47RUMG"
+  secret_key = "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"
 }
 #######################################################
 #Creating Webserver
