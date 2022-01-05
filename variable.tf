@@ -8,8 +8,8 @@ variable "keyname" {
     default = "ohio_key"
 }
 variable "windows_security_group" {
-    default = "sg-0c4d1efb671c26929"
+    default = "sg-09e9a4fc010cd924d"
 }
 variable "linux_security_group" {
-    default = "sg-08431bb922f4b69af"
+    default = "sg-0d7fa09e329cba729"
 }
